@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 ```python
-class Ayush:
+class Bittu:
     def __init__(self):
         self.name = "Bittu kumar"
         self.role = "Software Engineer"
