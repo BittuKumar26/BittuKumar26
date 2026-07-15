@@ -10,7 +10,7 @@
 ```python
 class Bittu:
     def __init__(self):
-        self.name = "Bittu kumar"
+        self.name = "Bittu Kumar Singh"
         self.role = "Software Engineer"
         self.education = "B.Tech CSE @ GLA University"
         self.interests = ["Software Engineering", "Problem Solving", "Web Development"]
